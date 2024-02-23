@@ -1,1 +1,1 @@
-# HackTech
+There are Three Files indicating three different diseases such as Glaucoma,Diabetic RetinoPathy(DR),Cataract.Please change the image path of the files Respective to their corresponding image name that is For Glaucoma galucoma.py and for Diabetic RetinoPathy(DR) DR.py and for Cataract cataract.py.
